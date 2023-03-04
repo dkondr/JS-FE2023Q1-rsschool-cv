@@ -3,7 +3,7 @@
 
 ====
 
-## **📫 My Contacts:** 
+## **📫 My Contacts** 
 
   + **discord:**     dkondr#1800
   + **email:**       dkondr34@mail.ru
@@ -14,7 +14,7 @@
 
 ## **👀 About Me**
 
-#####   I like information technology, programming and everything related to computer science. I became a student at RSschool to gain experience in IT, as well as the necessary skills and practice. I am not afraid to set challenging goals and achieve them.
+I like information technology, programming and everything related to computer science. I became a student at RSschool to gain experience in IT, as well as the necessary skills and practice. I am not afraid to set challenging goals and achieve them.
 
 ====
 
@@ -28,7 +28,7 @@
 
 ====
 
-## **✍ Sample Code:**
+## **✍ Sample Code**
 >  js:
 
 ```javascript
@@ -43,7 +43,7 @@
 
 ====
 
-## **✨ Work Experience:**
+## **✨ Work Experience**
 Practical experience in web development and programming is small. 
 I am engaged in the layout of small projects from figma. I solve tasks on the codewars.
 
@@ -51,12 +51,12 @@ I am engaged in the layout of small projects from figma. I solve tasks on the co
 
 ====
 
-## **🌱 Education and courses:**
+## **🌱 Education and courses**
 * *VSTU* Bachelor of Computer Science
 * *YouTube:* video courses on HTML, CSS, JS, Git
 
 ====
 
-## **💂‍♂️ Languages:**
+## **💂‍♂️ Languages**
 * *Russian* - native 
 * *English* - Pre-Intermediate(A1)
